@@ -7,7 +7,7 @@ const ButtonPage = () => {
         hello
       </Button>
       <div>
-        <Button secondary outline rounded className="text-2xl text-gray-800">
+        <Button warning rounded className="text-2xl">
           button
         </Button>
       </div>
